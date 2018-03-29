@@ -24,6 +24,9 @@
  void loop()
  {
 
+
+
+
  }
 
   void magnet_detect() //Triggered whenever a magnet/interrupt is detected by the arduino
